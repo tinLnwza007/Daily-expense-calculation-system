@@ -1,2 +1,2 @@
 # Daily-expense-calculation-system
-|นายศรณ์ สุขขำ|
+| นายศรณ์ สุขขำ |
